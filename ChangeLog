@@ -1,0 +1,6 @@
+0.0.9
+	added GTK interface, moved some GUI independent code into ti85.c
+	autoconf/automake support
+
+0.0.8
+	initial release

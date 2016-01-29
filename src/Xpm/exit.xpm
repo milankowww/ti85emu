@@ -1,0 +1,18 @@
+/* XPM */
+static char * exit_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" .  . . . ...               ",
+". . . . .  .                ",
+". . . . .  .                ",
+"... . . .  .                ",
+" ..  .  .  .                ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"....X.XXX.X...X.....XXXXXXXX",
+".XXXXX.X.XXX.XXXX.XXXXXXXXXX",
+"...XXXX.XXXX.XXXX.XXXXXXXXXX",
+".XXXXXX.XXXX.XXXX.XXXXXXXXXX",
+".XXXXX.X.XXX.XXXX.XXXXXXXXXX",
+"....X.XXX.X...XXX.XXXXXXXXXX"};

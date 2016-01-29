@@ -1,0 +1,8 @@
+2. To Do & bugs
+	bug: snapshot save/load is somewhat corrupted
+	finish the GTK port (buttons for load/save/reset/quit)
+	ti82,86 emulation
+	speed improvements (mallocs in banking etc.)
+	theme support
+	run-time options panel - speed, type of emulation, etc.
+

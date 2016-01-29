@@ -1,0 +1,18 @@
+/* XPM */
+static char * xvar_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+".   . .  . .  .       ..  ..",
+".   . .. . . .         .... ",
+".   . . .. ..           ..  ",
+".   . .  . . .         .... ",
+"... . .  . .  .       ..  ..",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXX.XXX.XX...XX...XXXX",
+".XXX.XXXX.XXX.X.XXX.X.XX.XXX",
+"X.X.XXXXX.XXX.X.XXX.X.XX.XXX",
+"XX.XX...X.XXX.X.....X...XXXX",
+"X.X.XXXXXX.X.XX.XXX.X.X.XXXX",
+".XXX.XXXXXX.XXX.XXX.X.XX.XXX"};

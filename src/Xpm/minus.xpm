@@ -1,0 +1,18 @@
+/* XPM */
+static char * minus_xpm[] = {
+"28 12 3 1",
+" 	c #000000000000",
+".	c #C71BC71BC71B",
+"X	c #E79DE39DE39D",
+" ... ..  .   .........      ",
+" ... . .... ............  ..",
+" ... .. ... ............  ..",
+" ... ... .. ............  ..",
+"   . .  ... ............  ..",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"     XXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX"};

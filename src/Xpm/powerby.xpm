@@ -1,0 +1,18 @@
+/* XPM */
+static char * powerby_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" .....                ......",
+". . .                 ..    ",
+"  . .                 ....  ",
+"  . .                 ..    ",
+"  . .                 ......",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXX.XXXXXXXXXXXXXXXXXXXXXXXX",
+"XX.X.XXXXXXXXXXXXXXXXXXXXXXX",
+"X.XXX.XXXXXXXXXXXXXXXXXXXXXX",
+".XXXXX.XXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX"};

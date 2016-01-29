@@ -1,0 +1,22 @@
+/* XPM */
+static char * right_xpm[] = {
+"16 16 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+"                ",
+"        .       ",
+"        ..      ",
+"        .X.     ",
+"        .XX.    ",
+" ........XXX.   ",
+"  .XXXXXXXXXX.  ",
+"   .XXXXXXXXXX. ",
+"   .XXXXXXXXXX. ",
+"  .XXXXXXXXXX.  ",
+" ........XXX.   ",
+"        .XX.    ",
+"        .X.     ",
+"        ..      ",
+"        .       ",
+"                "};

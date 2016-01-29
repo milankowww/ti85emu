@@ -1,0 +1,18 @@
+/* XPM */
+static char * on_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" .  ... ...                 ",
+". . .   .                   ",
+". . ..  ..                  ",
+". . .   .                   ",
+" .  .   .                   ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"X...XX.XXX.XXXXXXXXXXXXXXXXX",
+".XXX.X..XX.XXXXXXXXXXXXXXXXX",
+".XXX.X.X.X.XXXXXXXXXXXXXXXXX",
+".XXX.X.XX..XXXXXXXXXXXXXXXXX",
+".XXX.X.XXX.XXXXXXXXXXXXXXXXX",
+"X...XX.XXX.XXXXXXXXXXXXXXXXX"};

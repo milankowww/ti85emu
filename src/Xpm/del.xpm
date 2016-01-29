@@ -1,0 +1,18 @@
+/* XPM */
+static char * del_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+". .  .  ..                  ",
+". .. . .                    ",
+". . ..  .                   ",
+". .  .   .                  ",
+". .  . ..                   ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"....XX....X.XXXXXXXXXXXXXXXX",
+".XXX.X.XXXX.XXXXXXXXXXXXXXXX",
+".XXX.X...XX.XXXXXXXXXXXXXXXX",
+".XXX.X.XXXX.XXXXXXXXXXXXXXXX",
+".XXX.X.XXXX.XXXXXXXXXXXXXXXX",
+"....XX....X....XXXXXXXXXXXXX"};

@@ -1,0 +1,18 @@
+/* XPM */
+static char * sin_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" .. . .  .    .       ..... ",
+".   . .. . .. .       ..  ..",
+" .  . . ..    .       ..... ",
+"  . . .  .            ..  ..",
+"..  . .  .            ..... ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"X...X...X.XXX.XXXXXXXXXXXXXX",
+".XXXXX.XX..XX.XXXXXXXXXXXXXX",
+"X..XXX.XX.X.X.XXXXXXXXXXXXXX",
+"XXX.XX.XX.XX..XXXXXXXXXXXXXX",
+"XXX.XX.XX.XXX.XXXXXXXXXXXXXX",
+"...XX...X.XXX.XXXXXXXXXXXXXX"};

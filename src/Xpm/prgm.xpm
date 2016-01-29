@@ -1,0 +1,18 @@
+/* XPM */
+static char * prgm_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+"..   .  .   . .             ",
+". . . . .   . .             ",
+"..  . . .    .              ",
+".   . . .    .              ",
+".    .  ...  .              ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"...XX...XXX...X.XXX.XXXXXXXX",
+".XX.X.XX.X.XXXX..X..XXXXXXXX",
+".XX.X.XX.X.X..X.X.X.XXXXXXXX",
+"...XX...XX.XX.X.XXX.XXXXXXXX",
+".XXXX.X.XX.XX.X.XXX.XXXXXXXX",
+".XXXX.XX.XX...X.XXX.XXXXXXXX"};

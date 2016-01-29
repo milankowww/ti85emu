@@ -1,0 +1,60 @@
+/* config.h.in.  Generated automatically from configure.in by autoheader.  */
+
+/* Define if on AIX 3.
+   System headers sometimes define this.
+   We just want to avoid a redefinition error message.  */
+#ifndef _ALL_SOURCE
+#undef _ALL_SOURCE
+#endif
+
+/* Define if on MINIX.  */
+#undef _MINIX
+
+/* Define if the system does not provide POSIX.1 features except
+   with this defined.  */
+#undef _POSIX_1_SOURCE
+
+/* Define if you need to in order for stat and other things to work.  */
+#undef _POSIX_SOURCE
+
+/* GUI option: FLTK */
+#undef GUI_FLTK
+#undef FLTK_FLASHING
+#undef FLTK_RELEVANT
+
+/* GUI option: GTK */
+#undef GUI_GTK
+#undef GTK_RELEVANT
+
+/* speed options */
+#undef SPEED_FULL
+#undef SPEED_FREAL
+#undef SPEED_REAL
+
+/* SNAP file name */
+#undef SNAPFILE
+
+/* ROM file name */
+#undef ROMFILE
+
+/* Define if you have the <string.h> header file.  */
+#undef HAVE_STRING_H
+
+/* Define if you have the X11 library (-lX11).  */
+#undef HAVE_LIBX11
+
+/* Define if you have the Xext library (-lXext).  */
+#undef HAVE_LIBXEXT
+
+/* Define if you have the fltk library (-lfltk).  */
+#undef HAVE_LIBFLTK
+
+/* Define if you have the stdc++ library (-lstdc++).  */
+#undef HAVE_LIBSTDC__
+
+/* Name of package */
+#undef PACKAGE
+
+/* Version number of package */
+#undef VERSION
+

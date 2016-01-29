@@ -1,0 +1,18 @@
+/* XPM */
+static char * cos_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" ..  .   ..    .       .... ",
+".   . . .   .. .      ..  ..",
+".   . .  .     .      ..    ",
+".   . .   .           ..  ..",
+" ..  .  ..             .... ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"X...XX...XXX...XXXXXXXXXXXXX",
+".XXXX.XXX.X.XXXXXXXXXXXXXXXX",
+".XXXX.XXX.XX..XXXXXXXXXXXXXX",
+".XXXX.XXX.XXXX.XXXXXXXXXXXXX",
+".XXXX.XXX.XXXX.XXXXXXXXXXXXX",
+"X...XX...XX...XXXXXXXXXXXXXX"};

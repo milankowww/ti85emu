@@ -1,0 +1,18 @@
+/* XPM */
+static char * three_xpm[] = {
+"28 12 3 1",
+" 	c #000000000000",
+".	c #E79DE39DE39D",
+"X	c #FFFFFFFFFFFF",
+" . .. ..  ...  .....  ....  ",
+" . . . . . . .......  ....  ",
+" . .   .  ... ......  .  .  ",
+". .. . . . ... .....        ",
+". .. . . . .  .......  ..  .",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"X   XXXXXXXXXXXXXXXXXXXXXXXX",
+" XXX XXXXXXXXXXXXXXXXXXXXXXX",
+"XXX XXXXXXXXXXXXXXXXXXXXXXXX",
+"XXXX XXXXXXXXXXXXXXXXXXXXXXX",
+" XXX XXXXXXXXXXXXXXXXXXXXXXX",
+"X   XXXXXXXXXXXXXXXXXXXXXXXX"};

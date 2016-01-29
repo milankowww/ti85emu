@@ -1,0 +1,18 @@
+/* XPM */
+static char * graph_xpm[] = {
+"28 12 3 1",
+" 	c #C71BC71BC71B",
+".	c #000000000000",
+"X	c #E79DE39DE39D",
+" ..  .  .   . . ... ..      ",
+".   . . .   . . .   . .     ",
+" .  . . .   . . ..  ..      ",
+"  . . . .   . . .   . .     ",
+"..   .  ...  .  ... . .     ",
+"XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"X...X...XXX...XX...XX.XXX.XX",
+".XXXX.XX.X.XXX.X.XX.X.XXX.XX",
+".X..X.XX.X.XXX.X.XX.X.....XX",
+".XX.X...XX.....X...XX.XXX.XX",
+".XX.X.X.XX.XXX.X.XXXX.XXX.XX",
+"X...X.XX.X.XXX.X.XXXX.XXX.XX"};
